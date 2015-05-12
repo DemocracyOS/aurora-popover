@@ -1,0 +1,12 @@
+{
+  "name": "aurora-popover",
+  "repo": "slifszyc/aurora-popover",
+  "description": "Aurora Popover theme",
+  "version": "0.0.1",
+  "keywords": ["aurora", "popover", "theme"],
+  "dependencies": {
+    "aurora-tip": "git://github.com/slifszyc/aurora-tip"
+  },
+  "development": {},
+  "style": "aurora-popover.css"
+}

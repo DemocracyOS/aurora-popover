@@ -1,11 +1,11 @@
 {
-  "name": "aurora-popover",
-  "repo": "slifszyc/aurora-popover",
+  "name": "democracyos-aurora-popover",
+  "repo": "DemocracyOS/aurora-popover",
   "description": "Aurora Popover theme",
   "version": "0.0.1",
   "keywords": ["aurora", "popover", "theme"],
   "dependencies": {
-    "aurora-tip": "git://github.com/slifszyc/aurora-tip"
+    "democracyos-aurora-tip": "^1.0.0"
   },
   "development": {},
   "style": "aurora-popover.css"
